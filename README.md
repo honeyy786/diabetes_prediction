@@ -1,3 +1,3 @@
-# diabetes_prediction
+# Diabetes Prediction
 Finding an outlier in a dataset
-### Diabetes Prediction
+
