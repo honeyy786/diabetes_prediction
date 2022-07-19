@@ -1,3 +1,3 @@
 # Diabetes Prediction
 
-
+# Methodology
